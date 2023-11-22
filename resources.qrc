@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/tile_data_stamper" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
